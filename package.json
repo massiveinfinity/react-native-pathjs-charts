@@ -49,7 +49,7 @@
     "jest-react-native": "*",
     "react": "16.0.0",
     "react-dom": "16.0.0",
-    "react-native": "0.50.3",
+    "react-native": "0.70.6",
     "react-test-renderer": "16.0.0"
   },
   "jest": {
